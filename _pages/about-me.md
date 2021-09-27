@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
+permalink: /about me/
 ---
 
 I'm a practitioner of statistics, a student of probability, and probably thinking up a model right now. I started this blog because I do not enjoy writing. Yes, you read that right. 
